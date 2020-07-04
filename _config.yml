@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+plugins:          [jekyll-paginate]
+
+# Setup
+title:            datacrap
+tagline:          Welcome to the party,pal
+description:      'Welcome to my life!'
+url:              https://deep1401.github.io
+baseurl:          /
+
+author:
+  name:           'Deep Gandhi'
+  url:             https://deep1401.github.io
+
+paginate:         5
+
+# Custom vars
+
+
+github:
+  repo:           https://deep1401.github.io
