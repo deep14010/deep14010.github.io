@@ -10,7 +10,7 @@ plugins:          [jekyll-paginate]
 title:            datacrap
 tagline:          Welcome to the party,pal
 description:      'Welcome to my life!'
-url:              https://deep1401.github.io
+url:              https://deep14010.github.io
 baseurl:          /
 
 author:
